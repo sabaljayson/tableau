@@ -1,15 +1,15 @@
 {
-    "zip":"[value]",
-    "country":"[value]",
-    "city":"[value]",
-    "last_name":"[value]",
-    "industry":"[value]",
-    "eula":"[value]",
-    "title":"[value]",
-    "phone":"[value]",
-    "company":"[value]",
-    "state":"[value]",
-    "department":"[value]",
-    "first_name":"[value]",
-    "email":"[value]"
+  "zip" : "CR0 2WD",
+  "country" : "UK",
+  "city" : "Croydon",
+  "last_name" : "S",
+  "industry" : "Telecommunications",
+  "eula" : "Yes",
+  "title" : "Director",
+  "phone" : "07448287416",
+  "company" : "EntViz",
+  "state" : "Croydon",
+  "department" : "Sales",
+  "first_name" : "J",
+  "email" : "sabaljayson@student.ie.edu"
 }
